@@ -1,5 +1,5 @@
 # node-cfturnstile
-Modified version of [node-hcaptcha](https://github.com/vastus/node-hcaptcha) to work with Cloudflare Turnstile
+Modified version of [node-hcaptcha](https://github.com/vastus/node-hcaptcha) to work with Cloudflare Turnstile **(WORK IN PROGRESS)**
 
 ## Install
 
