@@ -1,25 +1,26 @@
 {
-  "name": "hcaptcha",
-  "version": "0.1.1",
-  "description": "Verify hCaptcha token",
+  "name": "node-cfturnstile",
+  "version": "0",
+  "description": "Modified version of node-hcaptch made to work with Cloudflare Turnstile",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vastus/node-hcaptcha.git"
+    "url": "git+https://github.com/maamokun/node-cfturnstile.git"
   },
   "keywords": [
-    "hcaptcha",
+    "turnstile",
+    "cloudflare",
     "node"
   ],
-  "author": "Juho Hautala <juho.hautala@iki.fi>",
+  "author": "maamokun <hello@mikn.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vastus/node-hcaptcha/issues"
+    "url": "https://github.com/maamokun/node-cfturnstile/issues"
   },
-  "homepage": "https://github.com/vastus/node-hcaptcha#readme",
+  "homepage": "https://github.com/maamokun/node-cfturnstile#readme",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^9.1.3",
